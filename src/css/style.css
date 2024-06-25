@@ -1,0 +1,25 @@
+#window{
+    background-color: #1e1e1e;
+}
+
+#box1{
+    background-color: gray;
+}
+
+#btn_edit{
+    color: #FFFFFF;
+    min-width: 100px;
+    min-height: 10px;
+    background: #f12e7f;
+    margin: 10px;
+    padding: 30px;
+}
+
+#btn_delete{
+    color: #FFFFFF;
+    min-width: 100px;
+    min-height: 10px;
+    background: #f12e7f;
+    margin: 10px;
+    padding: 30px;
+}
